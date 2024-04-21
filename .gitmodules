@@ -2,3 +2,11 @@
 	path = artifact_2_model
 	url = https://www.github.com/darchr/gem5.git
 	branch = cfgraph
+[submodule "artifact_1_input_processing"]
+	path = artifact_1_input_processing
+	url = https://www.github.com/mahyarsamani/sega-utils.git
+	branch = cfgraph
+[submodule "artifact_3_visualization.git"]
+	path = artifact_3_visualization.git
+	url = https://www.github.com/mahyarsamani/Viz.git
+	branch = cfgraph
