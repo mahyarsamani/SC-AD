@@ -1,0 +1,4 @@
+[submodule "artifact_2_model"]
+	path = artifact_2_model
+	url = https://www.github.com/darchr/gem5.git
+	branch = cfgraph
